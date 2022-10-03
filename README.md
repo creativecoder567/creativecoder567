@@ -1,7 +1,7 @@
 [![MasterHead](https://drive.google.com/file/d/1x6CyMlp9ctEJntgJ8EyZAbF4uiKld9Qu/view)]
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://doc-0g-3s-docs.googleusercontent.com/docs/securesc/i1s4hg8di6ijgl09jfqpo4226p1mrvdb/gaa4m7uj2p43us1oasfb1gcs0co30mea/1658660775000/09313448311155766745/03898010415551437161/1Y9W0F1Ikony3syR4zCbnqmPDlugZkhAd?ax=ACxEAsZ6SEhlX1_oJMEThTox6oswfGUygAWJYjuDyhMLyh6R7XWks95SP2sQOJNMOLdyCOAEjJbah45r3_g_SmioITyJe4f9pALfWi-B4BjjT7mpQcoCFOeknFcVNq_lZ8DsPRvNMhU7sQXMYnx7_M6XaIM74zpeZuBfJrePLFSGd4JhjfIHvrSj_XkTPLuta6Nty-doxupUHliGUHdPI3y21RF23lpHX-_fw9ONvy6DtgsnyFeLAtT_a35lT-oMMZT1wPj29Ke38w0QQYkI6nDAvUUpfKd6ru6Bp8in5I7ZwVR2cZLN7xw96M1PR9JW9tAnT14ke_7EByFDZFJsyV9J1WCx2p18scdxddBGC_2d5m85pKccc4l524JGgI_Bqq-7FQwWLTgrqk41BkUyGtOPe6iqjz8ulNfC8cMBEyo9pC3S7Gp_f4OsyxSF3DUD-305bBhUspT_GpGbGxXrJQ7G9NAUUEojVHH9pXrahZ_2REhXqa3q0wp6j8F5F8XjaDCn-eNL5L8nrOYAWLB0ne1wxDHXUmPAbZhi0T2Ti72Ghx2JTTv5FRMirQoc0pU_uhwuFCB5yn3weua-J_mG_h7uj7-2TkGxKwiMblqQEOyo2DqZgkIiyMwRL1LQZBNzLr3eRUCsytjtA6AkCZBgHlgQ9qAvAg9yi4UxcAtQ8CozEXq-iSiGoglgO2fTvktf7KdYg_NiQNlU3Qf-Xcv_dKOrxQEN0I5VdEOXXcNb6swUW36GzfPlZS--v7uHcKmIgKvaMRb14ceeK8goZXTRELUFPwbcSHtmwSX9TvRXQf7dDU16J2KOwIjoEqkjYbNz3A&uuid=a33a8851-62a0-4f34-bd2e-5a33d9c19cb2&authuser=0&nonce=latn7lro60st8&user=03898010415551437161&hash=139fci6nb1adnh62ohpm3ptfap61h1ja" align="right" alt="Coding" width="400">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativecoder567&label=Profile%20views&color=0e75b6&style=flat" alt="creativecoder567" /> </p>
 
