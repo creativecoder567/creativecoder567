@@ -1,7 +1,7 @@
-![MasterHead](https://global-uploads.webflow.com/618fa90c201104b94458e1fb/62bc23fed323a64c29957f73_Handling-background-services-in-Android-and-iOS_Main-Image.jpg)
+![MasterHead](https://github.com/creativecoder567/GudiyathamGuide/blob/master/images/android_flutter.jpg)
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" margin-left="50px" align="center" alt="Coding" >
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" margin-left="70px" align="center" alt="Coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativecoder567&label=Profile%20views&color=0e75b6&style=flat" alt="creativecoder567" /> </p>
 
