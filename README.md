@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Flutter Web**
 
-- 👯 I’m looking to collaborate on [TataNeu](https://play.google.com/store/apps/details?id=com.tatadigital.tcp)
+- 👯 I’m looking to collaborate on [Other Content Creators]()
 
-- 🤝 I’m looking for help with [TataNeu](https://play.google.com/store/apps/details?id=com.tatadigital.tcp)
+- 🤝 I’m looking for help with [Youtube Video Creation]()
 
 - 👨‍💻 All of my projects are available at [https://creativecoder567.github.io/Resume/](https://creativecoder567.github.io/Resume/)
 
