@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TCS-Tata Consultancy Services](https://play.google.com/store/apps/details?id=com.tatadigital.tcp)
 
-- 🌱 I’m currently learning **Flutter Web**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on [Other Content Creators]()
 
