@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/creativecoder567/GudiyathamGuide/blob/master/images/android_flutter.jpg)
+![MasterHead](https://github.com/creativecoder567/GudiyathamGuide/blob/master/images/my_skill.jpeg)
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://github.com/creativecoder567/GudiyathamGuide/blob/master/images/programmer.gif" margin-left="70px" align="center" alt="Coding" >
